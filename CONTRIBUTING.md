@@ -6,7 +6,7 @@
 
 ZincSearch uses Go (For server) and VueJS (For Web UI)
 
-You must have follwing installed:
+You must have following installed:
 
 1. Git
 2. Go 1.16 + (We recommend go 1.19+)
